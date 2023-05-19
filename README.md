@@ -5,6 +5,6 @@
 - [x] Implement modules
 - [x] Training
 - [x] End-To-End Synthesizer
-- [ ] Add Loss CE RVQ
+- [x] Add Loss CE RVQ
 - [ ] Objective Evaluation
 - [ ] Demo
