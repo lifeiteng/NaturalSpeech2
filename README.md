@@ -8,4 +8,4 @@
 - [x] Add Loss CE RVQ
 - [x] Subjective Evaluation
 - [ ] Objective Evaluation
-- [ ] `2023-06-06` Demo
+- [ ] `2023-06-21` Demo Page
